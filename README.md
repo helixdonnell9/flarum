@@ -1,11 +1,11 @@
 <p align="center">
-<a href="https://flarum.org/"><img src="https://flarum.org/assets/img/logo.png"></a>
+  <a href="https://flarum.org/"><img src="https://flarum.org/assets/img/logo.png"></a>
 </p>
 
 <p align="center">
-<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/license.svg" alt="License"></a>
+  <a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/d/total.svg" alt="Total Downloads"></a>
+  <a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/v/stable.svg" alt="Latest Stable Version"></a>
+  <a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/license.svg" alt="License"></a>
 </p>
 
 ## About Flarum
@@ -37,4 +37,3 @@ If you discover a security vulnerability within Flarum, please follow our [secur
 ## License
 
 Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
-
